@@ -1,0 +1,25 @@
+﻿Installing assembly 'C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+   logfile = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+   logfile = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.InstallLog
+Uninstalling assembly 'C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.InstallLog
+   assemblypath = C:\Users\ABDULLAH\source\repos\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+   logtoconsole = 
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
